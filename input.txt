@@ -1,0 +1,50 @@
+
+Wrong number of arguments. Use: triangle.exe <num1> <num2> <num3>
+2
+Wrong number of arguments. Use: triangle.exe <num1> <num2> <num3>
+2 3
+Wrong number of arguments. Use: triangle.exe <num1> <num2> <num3>
+2 3 4 5
+Wrong number of arguments. Use: triangle.exe <num1> <num2> <num3>
+2 2 a
+Error
+2 ab ab
+Error
+3abc 4abcd 4abcd
+Error
+1= 2 2
+Error
+1.a 1.a 2
+Error
+one one one
+Error
+0 0 0
+Не треугольник
+-1 2 3
+Не треугольник
+0,5 0,5 0,5
+Равносторонний
+0.7 0.7 0.7
+Error
+2 2 3
+Равнобедренный
+6 2 3
+Не треугольник
+1,64e-20 1,64e-20 1,64e-20
+Равносторонний
+1,89e64 1,89e64 1,88e64
+Равнобедренный
+2 3 4
+Обычный
+5                  6                 8
+Обычный
+5                 5               5
+Равносторонний
+1/2 2/3 3/4
+Error
+2 2 4
+Не треугольник
+с    ы   с
+Error
+2 2 4
+Равнобедренный
